@@ -991,3 +991,15 @@ CRC32: `4a58315b` \
 MD5: `d965384426146361d6e94b901d3e96f8` \
 SHA-1: `5a234e33f7429b48f4374b5989e6df4d20352b4c` \
 Language: `English`
+
+## What Friends Are For
+
+Patch link: https://github.com/BestPig/analogue-pocket-patches/raw/master/What_Friends_Are_for-cbed3dd6.ips \
+Official game link: https://shin.itch.io/what-friends-are-for
+
+Common name: `What Friends Are For V1.0` \
+IPS filename: `What_Friends_Are_for-cbed3dd6.ips` \
+CRC32: `cbed3dd6 ` \
+MD5: `9db11a12e5721bfecca10ac782f55247` \
+SHA-1: `58538084a964f779c2f756fbe732656f3f7bef66` \
+Language: `English`
