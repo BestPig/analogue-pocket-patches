@@ -242,7 +242,7 @@ MD5: `a9fa67d3abb5e385bfcf68bc6d8a900c` \
 SHA-1: `fd63ef1144f6c0f10f59f82ca814736110623015` \
 Language: `English`
 
-### Pokémon Crystal Clear 2.5.2
+### Pokémon Crystal Clear 2.5.5
 
 Steps:
   - Get Pokémon original ROM in version 1.1 (crc: `3358e30a`)
