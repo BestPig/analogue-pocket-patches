@@ -1003,3 +1003,15 @@ CRC32: `cbed3dd6 ` \
 MD5: `9db11a12e5721bfecca10ac782f55247` \
 SHA-1: `58538084a964f779c2f756fbe732656f3f7bef66` \
 Language: `English`
+
+## Chord 1.0.6
+
+Patch link: https://github.com/BestPig/analogue-pocket-patches/raw/master/chord.1.0.6-b1a5abb7.ips \
+Official game link: http://www.humbletune.com/chord/
+
+Common name: `chord.1.0.6` \
+IPS filename: `chord.1.0.6-b1a5abb7.ips` \
+CRC32: `b1a5abb7 ` \
+MD5: `9474de76249fcc91038a1cf708488ef1` \
+SHA-1: `4482a4fb5084dea635cc6b29c2dd887f26307b4a` \
+Language: `English`
