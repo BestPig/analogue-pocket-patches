@@ -932,6 +932,17 @@ MD5: `96fa4f2c0db499d48bad4ae599877fb3` \
 SHA-1: `e349eaba9b6fe253ae08cccab22da2a2af0c9306` \
 Language: `English`
 
+## LSDJ (Version 9.3.9)
+
+Patch link: https://github.com/BestPig/analogue-pocket-patches/raw/master/lsdj9_3_9-1fdf91b1.ips
+
+Common name: `lsdj9_3_9` \
+IPS filename: `lsdj9_3_9-1fdf91b1.ips` \
+CRC32: `1fdf91b1` \
+MD5: `ba7828a5beb6388ffa3a175ec64a832e` \
+SHA-1: `cc6e8d1ac771c73f65e60797834fcf1959c18c46` \
+Language: `English`
+
 ## Paragon5 Album
 
 Patch link: https://github.com/BestPig/analogue-pocket-patches/raw/master/p5_album-da9cb40f.ips \
@@ -1015,3 +1026,16 @@ CRC32: `b1a5abb7 ` \
 MD5: `9474de76249fcc91038a1cf708488ef1` \
 SHA-1: `4482a4fb5084dea635cc6b29c2dd887f26307b4a` \
 Language: `English`
+
+## From Below Pocket
+
+Patch link: https://github.com/BestPig/analogue-pocket-patches/raw/master/from-below-pocket-35ad9b5a.ips \
+Official game link: https://mhughson.itch.io/from-below-pocket
+
+Common name: `From_Below_Pocket.gbc` \
+IPS filename: `from-below-pocket-35ad9b5a.ips` \
+CRC32: `35ad9b5a ` \
+MD5: `163f99c456c8fd8936e91586356af1c4` \
+SHA-1: `c0e072bfb88c84dc68b2eded1f9c088d75ffa5ed` \
+Language: `English`
+
