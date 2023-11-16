@@ -614,6 +614,19 @@ MD5: `921bdff008475aa2c5344e1a0d110910` \
 SHA-1: `d31d67d0682515c7c85deaa1752b02231150e5bf` \
 Language: `English`
 
+## Dr. Mario DX Hack 2.0b
+
+Patch link: https://github.com/BestPig/analogue-pocket-patches/raw/master/Dr.%20Mario%20(World)%20(Rev%201)-f0225dd0-dx2b.ips
+
+*This patch will auto apply the DX hack* -> https://www.romhacking.net/hacks/5281/
+
+Common name: `Dr. Mario (World) (Rev 1)` \
+IPS filename: `Dr. Mario (World) (Rev 1)-f0225dd0-dx2b.ips` \
+CRC32: `f0225dd0` \
+MD5: `921bdff008475aa2c5344e1a0d110910` \
+SHA-1: `d31d67d0682515c7c85deaa1752b02231150e5bf` \
+Language: `English`
+
 ## Mario Tennis
 
 Changelog:
